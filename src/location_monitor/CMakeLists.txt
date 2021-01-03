@@ -109,7 +109,7 @@ catkin_package(
     message_runtime
     rospy
     roscpp
-    nav_msg
+    nav_msgs
 #  DEPENDS system_lib
 )
 
